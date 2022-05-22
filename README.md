@@ -1,4 +1,4 @@
-# FraudDetection_NVIDIAChallenge
+# Detecção de Fraudes - Desafio NVIDIA
 Desafio proposto pelo NVIDIA para desenvolver um projeto de detecção de fraude.
 
 ## Base de dados 
